@@ -9,7 +9,7 @@
 .container{
      width: 100%;
      min-height: 100vh;
-     background: #d0eaff;
+     background: #c7d1da;
      display: flex;
      align-items: center;
      justify-content: center;
@@ -22,7 +22,6 @@
 }
 .gallery{
     flex-basis: 47%;
-
     background: #241e20;
     transform: scale(1.08);
     box-shadow: -10px 5px 10px 10px rgba(0,0,0,0.1);
